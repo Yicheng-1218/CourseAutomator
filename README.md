@@ -17,7 +17,6 @@ https://github.com/Yicheng-1218/CourseAutomator/assets/72242651/e4d954ab-408f-4c
 ### Prerequisites
 - Python 3.x
 - Google Chrome browser
-- ChromeDriver
 
 ### Installation Steps
 1. Clone this repository:
