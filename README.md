@@ -32,7 +32,7 @@ CourseAutomator is a Python bot that automates the process of adding and droppin
 ## Usage
 1. Update the script with your student number and password:
    ```
-   bot = tkuCourseBot('stdNo', 'pwd')
+   bot = CourseBot('stdNo', 'pwd')
    ```
 2. Define the courses to add and drop:
    ```
@@ -41,7 +41,7 @@ CourseAutomator is a Python bot that automates the process of adding and droppin
    ```
 3. Run the script:
    ```
-   python course_automator.py
+   python main.py
    ```
 
 ## Contact Information
