@@ -9,6 +9,10 @@ CourseAutomator is a Python bot that automates the process of adding and droppin
 - Adds and drops courses based on user input
 - Provides logging for course addition and removal status
 
+## Demo
+[![Watch the video](https://i.ytimg.com/vi/eh-HJWZbwvk/hqdefault.jpg)](https://youtu.be/eh-HJWZbwvk)
+
+
 ## Installation
 ### Prerequisites
 - Python 3.x
