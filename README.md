@@ -21,7 +21,7 @@ https://github.com/Yicheng-1218/CourseAutomator/assets/72242651/e4d954ab-408f-4c
 ### Installation Steps
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/CourseAutomator.git
+   git clone https://github.com/Yicheng-1218/CourseAutomator.git
    ```
 2. Navigate to the project directory:
    ```
