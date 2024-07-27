@@ -44,7 +44,7 @@ class CourseBot:
             return ''.join(map(audio_code.get, vid))
         except:
             self.chrome.quit()
-            input('Now is not the time to select courses, press Enter to exit')
+            input('Currently it is not course selection time. Please try again later.')
             exit()
 
 
