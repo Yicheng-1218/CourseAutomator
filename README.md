@@ -47,5 +47,3 @@ https://github.com/Yicheng-1218/CourseAutomator/assets/72242651/e4d954ab-408f-4c
    python main.py
    ```
 
-## Contact Information
-If you have any questions, please submit an issue.
